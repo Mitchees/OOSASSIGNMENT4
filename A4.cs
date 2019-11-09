@@ -7,6 +7,7 @@ namespace COMP10066_Lab4
      * Library of statistical functions using Generics for different statistical
      * calculations.
      * 
+     
      * see http://www.calculator.net/standard-deviation-calculator.html
      * for sample standard deviation calculations
      *
